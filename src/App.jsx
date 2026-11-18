@@ -62,7 +62,7 @@ const App = () => {
 
   recipes.forEach((recipe) => {
     if (recipe.favorite === true) {
-        count = count + 1;
+        count =  1;
     }
   });
 
